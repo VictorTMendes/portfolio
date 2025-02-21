@@ -9,9 +9,6 @@ import css from "../assets/css.svg";
 import javascript from "../assets/javascript.svg";
 import react from "../assets/react.svg";
 import git from "../assets/git.svg";
-import node from "../assets/node.svg";
-import java from "../assets/java.svg";
-import python from "../assets/python.svg";
 
 function Projetos() {
     return (

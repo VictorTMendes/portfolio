@@ -2,7 +2,7 @@ import './Projetos.css'
 import Gta from '../assets/gta.png'
 import CloneInsta from '../assets/clone-insta.png'
 import CloneApple from '../assets/clone-apple.png'
-import MoneyFlow from '../assets/Captura de Tela 2025-02-21 às 16.12.00.png'
+import MoneyFlow from '../assets/moneyflow.png'
 import Login from '../assets/login.png'
 import html from "../assets/html.svg";
 import css from "../assets/css.svg";
@@ -51,7 +51,7 @@ function Projetos() {
               <img src={react} alt="" />
               <img src={javascript} alt="" />
             </div>
-            <a href="https://github.com/VictorTMendes/clone-home-instagram" target="_blank">
+            <a href="https://github.com/VictorTMendes/Money-Flow" target="_blank">
               <button className='btn-projeto'>Ver Projeto</button>
             </a>
           </div>

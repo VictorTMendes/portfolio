@@ -1,0 +1,89 @@
+@media (max-width: 768px) {
+    .info h1 {
+      font-size: 32px;
+    }
+
+    .info{
+        margin-left: -20px;
+    }
+  
+    .descricao p {
+      font-size: 16px;
+    }
+  
+    .arrow {
+      width: 60px;
+      height: 60px;
+      margin-left: 10px;
+    }
+  
+    .sobre {
+      flex-direction: column;
+      text-align: center;
+      height: 1000px;
+    }
+
+    .sobre h1{
+        font-size: 24px;
+        margin-top: 40px;
+    }
+  
+    .info-sobre {
+      text-align: center;
+      padding: 0 20px;
+      width: 250px;
+    }
+
+    .info-sobre p{
+        font-size: 14px;
+    }
+
+    .image-sobre {
+        width: 200px;
+        height: 200px;
+        margin-top: -200px;
+    }
+
+    .image-sobre img{
+        width: 200px;
+        height: 200px;
+    }
+
+    .skills{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        height: 1300px;
+        margin-left: 0;
+    }
+
+    .area-projetos{
+        height: 300px;
+    }
+
+    .input-projetos{
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    .contact{
+        margin: 0;
+        height: 500px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .info h1 {
+      font-size: 24px;
+    }
+  
+    .descricao p {
+      font-size: 14px;
+    }
+  
+    .image-sobre img {
+      max-width: 250px;
+    }
+  }
